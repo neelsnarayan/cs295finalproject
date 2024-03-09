@@ -1,0 +1,3 @@
+[submodule "cs295finalproject"]
+	path = cs295finalproject
+	url = git@github.com:neelsnarayan/cs295finalproject.git
